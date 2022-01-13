@@ -1,0 +1,6 @@
+{
+    "name": "My Token",    
+    "description": "This is my first Token",
+    "imageURI": "https://cf-ipfs.com/ipfs/Qma8ThUA5hUiKx4HXQbSEK3TLXutgRDYqyugsL6rrw4FqY?filename=dramatic-landscape-7.jpg",    
+    "attributes": [{"Beautifulness": "100"}, {"Type": "Landscape"}]
+}
